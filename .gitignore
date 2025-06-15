@@ -1,0 +1,21 @@
+# Compiled objects and shared libraries
+*.o
+*.so
+*.dll
+
+# Build artifacts
+.Rbuildignore
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj.user
+*.Rproj
+
+# R package build folders
+.Rcheck/
+build/
+src/*.d
+
+# Devtools and testthat files
+.DS_Store

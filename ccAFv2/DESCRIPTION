@@ -1,0 +1,11 @@
+Package: ccAFv2Rp
+Type: Package
+Title: ccAFv2 High-resolution Cell Cycle Classifier
+Version: 0.1.0
+Author: Chris Plaisier, Samantha O'Connor, Thurston Herricks
+Maintainer: Chris Plaisier <plaisier@asu.edu>
+Description: ccAFv2 is a high-resolution classifier for cell cycle state identification in single-cell RNA-seq (scRNA-seq) data. It was trained on human neural stem cells and classifies six distinct cell cycle states (G1, Late G1, S, S/G2, G2/M, and M/Early G1) along with a Neural G0 state (G0). ccAFv2 incorporates a tunable parameter to refine classification certainty and outperforms existing methods while supporting additional cell cycle states. Classifying cell cycle states and a quiescent-like G0 state using single-cell transcriptomics. Samantha A. O‘Connor, Leonor Garcia, Rori Hoover, Anoop P. Patel, Benjamin B. Bartelle, Jean-Philippe Hugnot, Patrick J. Paddison, Christopher L. Plaisier. bioRxiv [Preprint]. 2024 Apr 20:2024.04.16.589816. doi: 10.1101/2024.04.16.589816. PMID: 38659838 
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
