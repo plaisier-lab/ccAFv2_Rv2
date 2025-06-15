@@ -92,7 +92,7 @@ Once the devtools package is installed, it can then be used to install the ccAFv
 
 ```r
 ToDo
-remotes::install_github('plaisier-lab/ccafv2_R/ccAFv2')
+remotes::install_github('plaisier-lab/ccafv2Rp/ccAFv2')
 ```
 
 ## Maintainers
