@@ -7,4 +7,4 @@ export(SpatialDimPlot.ccAFv2)
 export(ThresholdPlot)
 
 export(ccAFv2_classifier)
-useDynLib(ccAFv2_Rv2, .registration = TRUE)
+useDynLib(ccAFv2, .registration = TRUE)
