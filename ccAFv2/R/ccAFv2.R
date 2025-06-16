@@ -28,8 +28,8 @@ PredictCellCycle = function(seurat_obj, threshold=0.5, include_g0 = FALSE, do_sc
     seurat1 = seurat_obj
   
     # Load model and marker genes
-    classes = read.csv(system.file('extdata', 'ccAFv2_classes.txt', package='ccAFv2Rp'), header=FALSE)$V1
-    marker_genes = read.csv(system.file('extdata', 'ccAFv2_genes.csv', package='ccAFv2Rp'), header=TRUE, row.names=1)[,paste0(species,'_',gene_id)]
+    classes = read.csv(system.file('extdata', 'ccAFv2_classes.txt', package='ccAFv2'), header=FALSE)$V1
+    marker_genes = read.csv(system.file('extdata', 'ccAFv2_genes.csv', package='ccAFv2'), header=TRUE, row.names=1)[,paste0(species,'_',gene_id)]
 
     
     # Run SCTransform on data being sure to include the marker_genes
