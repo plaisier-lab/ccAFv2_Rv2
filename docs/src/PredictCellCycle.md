@@ -56,4 +56,4 @@ seurat_obj = PredictCellCycle(seurat_obj)
 ```
 
 [Tutorial
-example](https://plaisier-lab.github.io/ccafv2_R/src/U5.html#marker-genes)
+example](https://plaisier-lab.github.io/ccafv2_Rv2/src/U5.html#marker-genes)

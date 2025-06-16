@@ -46,4 +46,4 @@ ThresholdPlot(seurat_obj)
 ```
 
 [Example
-Use](https://plaisier-lab.github.io/ccafv2_R/src/Choosing_Threshold.html#selecting-a-likelihood-threshold)
+Use](https://plaisier-lab.github.io/ccafv2_Rv2/src/Choosing_Threshold.html#selecting-a-likelihood-threshold)

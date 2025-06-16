@@ -31,4 +31,4 @@ DimPlot.ccAFv2(seurat_obj)
 ```
 
 [Example
-Use](https://plaisier-lab.github.io/ccafv2_R/src/U5.html#plotting-cell-cycle-states)
+Use](https://plaisier-lab.github.io/ccafv2_Rv2/src/U5.html#plotting-cell-cycle-states)

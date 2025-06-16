@@ -1,6 +1,6 @@
 # docker run -it -v '/media/old_home/home/cplaisier/ccAFv2_test:/files' cplaisier/ccafv2_seurat5
 
-devtools::install_github("plaisier-lab/ccafv2Rp/ccAFv2")
+devtools::install_github("plaisier-lab/ccafv2_Rv2/ccAFv2")
 
 library(ccAFv2)
 library(Seurat)

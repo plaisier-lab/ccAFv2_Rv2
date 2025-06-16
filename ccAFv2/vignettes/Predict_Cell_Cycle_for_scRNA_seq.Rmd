@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 ```
 
 ```{r install}
-devtools::install("F:/Genetic_Analysis_Learning/Plaisier_Lab_Projects/ccafv2Rp")
+devtools::install("F:/Genetic_Analysis_Learning/Plaisier_Lab_Projects/ccafv2_Rv2")
 ```
 
 
@@ -26,7 +26,7 @@ devtools::install("F:/Genetic_Analysis_Learning/Plaisier_Lab_Projects/ccafv2Rp")
 
 library(Seurat)
 library("org.Hs.eg.db")
-library(ccAFv2Rp)
+library(ccAFv2_Rv2)
 
 # Load up U5 expression
 U5_seurat = readRDS("F:/Genetic_Analysis_Learning/Plaisier_Lab_Projects/Data/U5/U5_normalized_ensembl.rds")

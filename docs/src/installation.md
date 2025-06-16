@@ -13,14 +13,11 @@ NOTE: The Docker images already have ccAFv2 installed, so both of these commands
 Once the dependencies are met, ccAFv2 can be installed in R using the devtools package, which must be installed first. The devtools package can be installed using the command:
 ```
 install.packages('devtools')
-devtools::install_github('plaisier-lab/ccafv2_R/ccAFv2')
+devtools::install_github('plaisier-lab/ccafv2_Rv2/ccAFv2')
 ```
-# System Dependencies
-- Tensorflow/Keras version 2 must be installed - [install link](https://www.tensorflow.org/install)
 
 R dependencies:
 - Seurat 4 or 5 - [install link](https://satijalab.org/seurat/articles/install_v5)
-- keras - [install link](https://cran.r-project.org/web/packages/keras/vignettes/)
 
 # Dockerfile
 

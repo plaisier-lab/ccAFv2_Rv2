@@ -12,7 +12,7 @@ Key Applications of ccAFv2:
 - Identify cell cycle states in diverse cell types and germ layers.
 - Classify cells, nuclei, and spatial transcriptomics data across species.
 - Regress cell cycle expression patterns to reveal biological signals.
-- Use as an [R package](https://github.com/plaisier-lab/ccafv2_R) (Seurat integration) or [PyPI package](https://pypi.org/project/ccAF/) (scanpy integration).
+- Use as an [R package](https://github.com/plaisier-lab/ccafv2_Rv2) (Seurat integration) or [PyPI package](https://pypi.org/project/ccAF/) (scanpy integration).
 
 # Citing ccAFv2
 If you include or rely on ccAF2 when publishing research, please adhere to the following citation guide:
@@ -35,7 +35,7 @@ If you include or rely on ccAF2 when publishing research, please adhere to the f
 > For other great packages from the Plaisier Lab, please check [here](https://github.com/plaisier-lab).
 
 # Support 
-Found a bug or would like to see a feature implemented? Feel free to submit an [issue](https://github.com/plaisier-lab/ccAFv2_R/issues/new). Your help to improve ccAF is highly appreciated. 
+Found a bug or would like to see a feature implemented? Feel free to submit an [issue](https://github.com/plaisier-lab/ccAFv2_Rv2/issues/new). Your help to improve ccAF is highly appreciated. 
 
 
 

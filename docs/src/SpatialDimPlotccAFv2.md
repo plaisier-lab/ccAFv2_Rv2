@@ -33,4 +33,4 @@ SpatialDimPlot.ccAFv2(seurat_obj)
 ```
 
 [Example
-Use](https://plaisier-lab.github.io/ccafv2_R/src/spatial.html#plotting-cell-cycle-states-onto-images)
+Use](https://plaisier-lab.github.io/ccafv2_Rv2/src/spatial.html#plotting-cell-cycle-states-onto-images)
